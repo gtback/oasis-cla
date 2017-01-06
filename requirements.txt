@@ -1,4 +1,4 @@
-beautifulsoup4==4.5.1
-python-dateutil==2.5.3
-requests==2.11.1
+beautifulsoup4==4.5.3
+python-dateutil==2.6.0
+requests==2.12.4
 six==1.10.0
